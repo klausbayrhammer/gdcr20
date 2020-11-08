@@ -1,6 +1,7 @@
 Iterations:
-* Thing about tests first
-* Strong style pairing
-* Continuous Evolution
-* Tell don't ask (every function should return void)
+* Think about tests first (ReasonML with Marco)
+* Strong style pairing (Haskell with Adam)
+* Continuous Evolution (C# with Wolfgang)
+* No property access & every function should return void (Typescript with Peter)
 * Ensemble Programming
+* Ensemble Programming II
